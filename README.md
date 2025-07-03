@@ -60,7 +60,7 @@ etc.
 
 ## Another examples
 
-[Full typescript template](https://github.com/NERVE-labs-team/sallar-typescript-minimal-template).
+[Full typescript template](https://github.com/NERVE-labs-team/sallar-typescript-minimal-template)
 
 ## Running the app in production
 
